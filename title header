@@ -1,13 +1,13 @@
 <!DOCTYPE html> 
 <html> 
 	<head> 
-		<title>Cara Membuat TodoList </title>
+		<title>Resep Makanan TodoList </title>
 		<link rel="stylesheet" href="Todo_list.css">
 	</head>
 <body> 
 	<div class="container">
 		<div id="myDIV" class="header">
-		  <h2 style="margin:5px">Makanan Kesukaan Saya</h2>
+		  <h2 style="margin:5px">Daftar Menu Makanan</h2>
 		  <input type="text" id="myInput" placeholder="Menu...">
 		  <span onclick="newElement()" class="addBtn">Tambah</span>
 		</div>
